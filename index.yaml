@@ -3,13 +3,13 @@ entries:
   giropops-senhas:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-08-14T22:02:05.043828293-03:00"
+    created: "2024-08-14T22:05:35.142721678-03:00"
     description: Gerador de Senhas do Giropops
     digest: 1870a18dddaac5558a0a235054e13bd103d6aa2046d9328e78f2842dfcbd1698
     name: giropops-senhas
     sources:
     - https://github.com/badtuxx/giropops-senhas
     urls:
-    - https://github.com/FabioBartoli/chart-helm-aula/giropops-senhas-0.1.0.tgz
+    - https://fabiobartoli.github.io/chart-helm-aula/giropops-senhas-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-14T22:02:05.043528746-03:00"
+generated: "2024-08-14T22:05:35.142432754-03:00"
